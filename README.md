@@ -18,7 +18,7 @@ discussedVas well as the final [outputs].
 
 ## [Index]
 
-1.  [Included Files](#included)
+1.  [Included Files](#included_files)
 
     -   [Protein structure](#protein-structure)
     -   [Parameters & Libraries](#parlib)
@@ -38,7 +38,7 @@ discussedVas well as the final [outputs].
 
 ------------------------------------------------------------------------
 
-## [Included Files] {#included}
+## [Included_Files]
 
 In this section, all the documents and data necessary to carry out the
 project will be discussed.
