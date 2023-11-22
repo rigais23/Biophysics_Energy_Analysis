@@ -20,7 +20,7 @@ discussedVas well as the final [outputs].
 
 1.  [Included Files](#included)
 
-    -   [Protein structure](#prostr)
+    -   [Protein structure](#protein-structure)
     -   [Parameters & Libraries](#parlib)
 
 2.  [Code](#codes)
