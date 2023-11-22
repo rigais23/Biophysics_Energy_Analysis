@@ -32,7 +32,7 @@ discussedVas well as the final [outputs].
 
 3.  [Results](#results)
 
-4.  [Documentation](#doc)
+4.  [Documentation](#documentation)
 
 5.  [Authors](#authors)
 
@@ -156,7 +156,7 @@ row for each residue and a column for each energy.
 
 ------------------------------------------------------------------------
 
-## [Documentation] {#doc}
+## [Documentation] 
 
 Additional information can be found in the files:
 
@@ -169,7 +169,7 @@ results and report.
 
 ------------------------------------------------------------------------
 
-## [Authors] {#authors}
+## [Authors] 
 
 **Ricard Garcia Isern** \| [Contact me](ricard.garcia@alum.esci.upf.edu)
 
