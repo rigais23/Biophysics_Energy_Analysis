@@ -23,7 +23,7 @@ discussedVas well as the final [outputs].
     -   [Protein structure](#protein-structure)
     -   [Parameters & Libraries](#parlib)
 
-2.  [Code](#codes)
+2.  [Code](#code)
 
     -   [Preparation & Data Curation](#prep)
     -   [Determine Interface Residues](#inre)
@@ -43,7 +43,7 @@ discussedVas well as the final [outputs].
 In this section, all the documents and data necessary to carry out the
 project will be discussed.
 
-### Protein structures {#prostr}
+### Protein structures 
 
 `6m0j.cif`: File containing the structure of the complex formed by our
 proteins of interest, downloaded directly from:
@@ -79,7 +79,7 @@ can follow the instructions inside the file `BioPhys_README` ).
 
 ------------------------------------------------------------------------
 
-## [Code] {#code}
+## [Code]
 
 At the outset of the code, one encounters a code block labeled
 `customize parameters` . This is the section where the variables
