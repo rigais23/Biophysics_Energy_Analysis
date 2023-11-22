@@ -1,4 +1,3 @@
-
 # **SPIKE RBD-ACE2 PROTEIN-PROTEIN INTERFACE ANALYSIS**
 
 This is the README file for the project carried out on the analysis of
@@ -137,7 +136,7 @@ energy differences after completing the study (`ala_scanning.csv`).
 
 ------------------------------------------------------------------------
 
-## [Results] {#results}
+## [Results] 
 
 `energies_all.csv` File generated after running `final_script.ipynb`.
 Contains a table with all the energies (electrostatic, Van der Waals,
